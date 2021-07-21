@@ -81,7 +81,7 @@
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "playwright": "^1.13.0",
-    "prettier": "^2.2.1",
+    "prettier": "^2.3.2",
     "pwmetrics": "^4.2.3"
   }
 }
