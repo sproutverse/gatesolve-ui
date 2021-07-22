@@ -7,7 +7,7 @@
     "@fontsource/noto-sans": "^4.5.0",
     "@material-ui/core": "~4.11.4",
     "@material-ui/icons": "^4.11.2",
-    "@math.gl/web-mercator": "^3.4.3",
+    "@math.gl/web-mercator": "^3.5.3",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.0",
